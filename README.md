@@ -1,7 +1,7 @@
 # volatility-install-liunx
 
-Stage 1:
-<ol>
+<b>Stage 1:</b>
+
  <li>step 1>git clone https://github.com/volatilityfoundation/volatility.git</li>
  <li>step 2>sudo apt-get install pcregrep libpcre++-dev python-dev -y</li>
  <span> if Error is given for python-dev not found then use python2-dev instand of python-dev </span>
@@ -12,8 +12,8 @@ Stage 1:
  <li>step 6>sudo python setup.py build install</li>
  <li>step 7>sudo apt-get install yara -y</li>
  <li>step 8>Copy the drive link>>https://drive.google.com/drive/folders/1S1Oo83VPGTK04mvLGhlIXmp20ak43R2K?usp=sharing</li>
- </ol>
- Stage 2:
+
+ <b>Stage 2:</b>
  
  <li>step 9>unzip the folder that you have downloaded.Then enter into that folder.</li>
  <li>step 10>Then open a terminal here..</li>
